@@ -21,6 +21,13 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    [HttpPost]
+    public IActionResult Register(string name,string email,string password){
+      
+    return View();
+    }
+
     public IActionResult Login()
     {
         return View();
