@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ProjectC#.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectC#.tw2uaci30i.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\droopmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\droopmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\error-404.css",
+      "PackagePath": "staticwebassets\\assets\\css\\error-404.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\css\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\product-gallery.css",
+      "PackagePath": "staticwebassets\\assets\\css\\product-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\ionicons\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\ionicons\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\ionicons\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\ionicons\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Bold-FD.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Bold-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Bold-FD.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Bold-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Bold-FD.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Bold-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Light-FD.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Light-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Light-FD.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Light-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Light-FD.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Light-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Medium-FD.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Medium-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Medium-FD.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Medium-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\fonts\\vazir\\Vazir-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\vazir\\Vazir-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\benefits\\benefit1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\benefits\\benefit1.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\benefits\\benefit2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\benefits\\benefit2.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\benefits\\benefit3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\benefits\\benefit3.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\benefits\\benefit4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\benefits\\benefit4.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\blog\\post100.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\blog\\post101.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post101.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\blog\\post102.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post102.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\blog\\post103.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\post103.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\comment-reply.png",
+      "PackagePath": "staticwebassets\\assets\\images\\comment-reply.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\contact-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\encode43vfbbbfb\\enamad.html",
+      "PackagePath": "staticwebassets\\assets\\images\\encode43vfbbbfb\\enamad.html"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\encode43vfbbbfb\\etehadiye.html",
+      "PackagePath": "staticwebassets\\assets\\images\\encode43vfbbbfb\\etehadiye.html"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\encode43vfbbbfb\\samandehi.html",
+      "PackagePath": "staticwebassets\\assets\\images\\encode43vfbbbfb\\samandehi.html"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\compare.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\compare.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\favorite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\favorite.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\favorited.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\favorited.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\profile-menu\\addresses.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\profile-menu\\addresses.webp"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\profile-menu\\exit.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\profile-menu\\exit.webp"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\profile-menu\\favorites.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\profile-menu\\favorites.webp"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\profile-menu\\orders.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\profile-menu\\orders.webp"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\icons\\profile-menu\\profile.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\profile-menu\\profile.webp"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\login.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\megamenu\\megamenu-image1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\megamenu\\megamenu-image2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\megamenu\\megamenu-image3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-image3.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\megamenu\\megamenu-image4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-image4.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\megamenu\\megamenu-image5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-image5.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\megamenu\\megamenu-image6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\megamenu-image6.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p100.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p100.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p1000.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p1000.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p101.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p101.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p102.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p102.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p103.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p103.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p104.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p104.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p200.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p200.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p201.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p201.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p202.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p202.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p203.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p203.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p204.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p204.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p300.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p300.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p301.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p301.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p302.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p302.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p303.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p303.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p304.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p304.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p400.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p400.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p401.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p401.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p402.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p402.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p403.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p403.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\products\\p404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\p404.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\promo-image1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\promo-image2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\reset-password.png",
+      "PackagePath": "staticwebassets\\assets\\images\\reset-password.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\slider\\side-slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\side-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\slider\\side-slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\side-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\slider\\side-slide3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\side-slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\slider\\slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\slider\\slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\social\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\social\\insta.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\insta.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\social\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\social\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\social\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\team\\team-person1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\team\\team-person2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-person2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\team\\team-person3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-person3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\team\\team-person4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-person4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\images\\user-no-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-no-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\droopmenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\droopmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\nav-tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nav-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\pagination.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pagination.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\product-gallery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\aos-master\\dist\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\aos-master\\dist\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\aos-master\\dist\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\aos-master\\dist\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\assets\\plugins\\hover-master\\css\\hover-min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\hover-master\\css\\hover-min.css"
+    },
+    {
+      "Id": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProjectC#.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProjectC#.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProjectC#.props",
+      "PackagePath": "build\\ProjectC#.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectC#.props",
+      "PackagePath": "buildMultiTargeting\\ProjectC#.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProjectC#.props",
+      "PackagePath": "buildTransitive\\ProjectC#.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
