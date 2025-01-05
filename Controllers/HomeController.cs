@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Net;
 using Microsoft.AspNetCore.Mvc;
 using ProjectC_.Models;
 
@@ -25,6 +26,16 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Register(string name,string email,string password){
       
+
+  Context db=new Context();
+  User user=new User();
+  user.NameFamily=name;
+  user.Email=email;
+  user.Password=password;
+  db.TblUser.Add(user);
+  db.SaveChanges();
+  ViewBag.Message="ثبت نام شما با موفقیت انجام شد";
+
     return View();
     }
 

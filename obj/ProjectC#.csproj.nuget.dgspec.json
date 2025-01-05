@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadegh\\Desktop\\ProjectC#\\ProjectC#.csproj": {}
+    "C:\\Users\\sadegh\\Desktop\\shop\\ProjectC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadegh\\Desktop\\ProjectC#\\ProjectC#.csproj": {
+    "C:\\Users\\sadegh\\Desktop\\shop\\ProjectC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\ProjectC#.csproj",
+        "projectUniqueName": "C:\\Users\\sadegh\\Desktop\\shop\\ProjectC#.csproj",
         "projectName": "ProjectC#",
-        "projectPath": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\ProjectC#.csproj",
+        "projectPath": "C:\\Users\\sadegh\\Desktop\\shop\\ProjectC#.csproj",
         "packagesPath": "C:\\Users\\sadegh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadegh\\Desktop\\ProjectC#\\obj\\",
+        "outputPath": "C:\\Users\\sadegh\\Desktop\\shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sadegh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,18 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

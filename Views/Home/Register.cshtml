@@ -21,6 +21,15 @@
         </div>
     </div>
 
+
+@if(ViewBag.Message != null){
+<p class="alert alert-success text-center" role="alert" style="    width: 400px;
+    margin: auto; margin-top: 50px;">
+@ViewBag.Message
+</p>
+}
+
+
 <form action="/home/register" method="post">
     <div class="container py-2 py-md-5">
         <div class="row">
