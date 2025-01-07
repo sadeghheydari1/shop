@@ -1,4 +1,4 @@
-
+@model DLogin
 <section class="inner-page" id="contact-page">
     <div class="container-fluid" id="page-hero">
         <div class="row">
@@ -21,6 +21,17 @@
         </div>
     </div>
 
+
+@if(ViewBag.Error != null){
+<p class="alert alert-danger text-center" role="alert" style="    width: 400px;
+    margin: auto; margin-top: 50px;">
+@ViewBag.Error
+</p>
+}
+
+        
+
+<form action="/Home/Login" method="post">
     <div class="container py-2 py-md-5">
         <div class="row">
             <div class="col-12 col-sm-10 offset-sm-1">
@@ -34,14 +45,16 @@
                             <p>با عضویت در سایت از همه امکانات سایت بهره مند شوید.</p>
                             <div class="form-group">
                                 <label for="email">پست الکترونیک :</label>
-                                <input type="email" class="form-control" id="email">
+                                <input type="email" class="form-control" asp-for="Email">
+                                <span asp-validation-for="Email" class="text-danger"></span> 
                             </div>
                             <div class="form-group">
                                 <label for="password">رمز عبور :</label>
-                                <input type="password" class="form-control" id="password">
+                                <input type="password" class="form-control" asp-for="Password">
+                                <span asp-validation-for="Password" class="text-danger"></span>
                             </div>
                             <div class="form-group">
-                                <a href="profile/personal-info.html"><input type="submit" value="ورود به ناحیه کاربری" class="btn btn-success"></a>
+                                <button type="submit" class="btn btn-primary">ورود</button>
                             </div>
                         </div>
                     </div>
@@ -49,4 +62,5 @@
             </div>
         </div>
     </div>
+</form>
 </section>
